@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "QuickFly",
+    "slug": "quickfly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "image": "./assets/icon.png", "resizeMode": "contain", "backgroundColor": "#ffffff" },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.quickfly.app" },
+    "android": { "package": "com.quickfly.app" },
+    "platforms": ["ios","android","web"]
+  }
+}
